@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vidly", "Vidly\Vidly.csproj", "{BA603EA9-59E8-4315-A859-A991E2E97E1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA603EA9-59E8-4315-A859-A991E2E97E1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA603EA9-59E8-4315-A859-A991E2E97E1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA603EA9-59E8-4315-A859-A991E2E97E1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA603EA9-59E8-4315-A859-A991E2E97E1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CD5DD29-31F6-4116-BEA4-B872093BF516}
+	EndGlobalSection
+EndGlobal
